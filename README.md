@@ -1,3 +1,5 @@
+![cover-image](./images/cover-image.png)
+
 # Kubernetes
 
 ![GitHub deployments](https://img.shields.io/github/deployments/ameyrupji/k8s/github-pages?label=Pages&logo=GitHub)[`View Website`](https://ameyrupji.github.io/k8s/)
