@@ -1,6 +1,6 @@
 # Kubernetes
 
-![GitHub deployments](https://img.shields.io/github/deployments/ameyrupji-k8s/k8s/github-pages?label=Pages&logo=GitHub)[`View Website`](https://ameyrupji-k8s.github.io/k8s/)
+![GitHub deployments](https://img.shields.io/github/deployments/ameyrupji/k8s/github-pages?label=Pages&logo=GitHub)[`View Website`](https://ameyrupji.github.io/k8s/)
 
 This repository is a starting place for documenting my kubernetes (k8s) learning journey. I have tried to capture these learnings by demonstrating 3 kinds of applications a static website, a web app using Java Spring Boot, and a cron job using Python. I will go through the process of taking these applications from the ground up, containerizing them using Docker, then deploying them to K8s cluster locally and on the cloud, adding the ability to scale them and performance test these applications.
 
